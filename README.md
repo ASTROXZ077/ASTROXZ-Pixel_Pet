@@ -8,6 +8,10 @@ Pixel Pet procedurally draws its own pixel art, so it does not require external 
 
 ![Pixel Pet Preview](PixelPet-Preview.png)
 
+## 🎬 Demo
+
+![Pixel Pet Demo](ASTROXZ-PIXEL_PET.gif)
+
 ## ✨ Features
 
 - 💤 Idle, walking, sleeping, happy, and surprised states
